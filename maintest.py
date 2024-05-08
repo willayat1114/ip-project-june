@@ -1,4 +1,5 @@
 #version: 1.0.b
+#Author: Wilayat Ali Kawoosa, Fatima Shah & Tajeshwar Singh
 import requests
 import smtplib
 from email.mime.multipart import MIMEMultipart
